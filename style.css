@@ -120,14 +120,12 @@ body{
 }
 
 
-
 .container-1{
     display: flex;
     flex-direction:row;
     justify-content:space-evenly;    
 
 }
-
 
 .left{
     height:auto;
@@ -284,29 +282,9 @@ span{
     }
 
 
-
-
     }
 
 
 
-/*.container-1 h1{
-   text-align: center;
-    width: 50%;
-
-}
 
 
-
-.container-1 img{
-   width:50%;
-
-   
-}
-
-/*
-.hand-img{
-    width:100%;  
-    height:auto; 
-}
-*/
